@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Учебный проект: "React Burger"
+## Тема: Основы React. Инструментарий React.
+## Задача:
+### Создать CRA-заготовку и создать структуру папок под компоненты
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
